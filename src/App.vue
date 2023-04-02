@@ -5,11 +5,11 @@ import ProjectsList from '@/components/Projects/ProjectsList.vue';
 <template>
   <header>
     <h1>Welcome to cmd0app.com!</h1>
-    <h2>CmD0_'s web project hub</h2>
+    <h2><a href="https://github.com/CmD0">CmD0_'s</a> web projects hub</h2>
   </header>
 
   <main>
-    <h2>My Projects:</h2>
+    <h2>Hosted Projects:</h2>
     <ProjectsList />
   </main>
 </template>
@@ -22,18 +22,6 @@ header {
 #projects {
   list-style: none;
   padding: 0;
-  margin: 0;
-  margin-top: 1rem;
-}
-
-.project-item {
-  margin: 0 0 1rem;
-}
-
-.project-link {
-  text-decoration: none;
-  font-size: large;
-  font-weight: 600;
 }
 
 .logo {

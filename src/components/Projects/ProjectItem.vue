@@ -13,3 +13,14 @@ defineProps({
         <p>{{ project.description }}</p>
     </li>
 </template>
+
+<style scoped>
+.project-link {
+    font-size: large;
+    font-weight: 600;
+}
+
+p {
+    margin: 0.5em;
+}
+</style>
