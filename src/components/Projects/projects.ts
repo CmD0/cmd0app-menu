@@ -18,7 +18,12 @@ const projects = [
         name: 'projet_web_backend_2023',
         description: 'Node.js application using express that powers projet_web_frontend_2023.',
         URL: 'https://api-stages.cmd0app.com/api/',
-    }
+    },
+    {
+        name: 'neon-nightbeat',
+        description: "website for a friend's final assignment.",
+        URL: 'https://neon-nightbeat.cmd0app.com',
+    },
 ];
 
 export default projects;
