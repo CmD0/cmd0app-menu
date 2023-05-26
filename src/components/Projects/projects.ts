@@ -21,7 +21,7 @@ const projects = [
     },
     {
         name: 'neon-nightbeat',
-        description: "website for a friend's final assignment.",
+        description: "Hosted for Matis Gaetjens",
         URL: 'https://neon-nightbeat.cmd0app.com',
     },
 ];
