@@ -20,6 +20,11 @@ const projects = [
         URL: 'https://api-stages.cmd0app.com/api/',
     },
     {
+        name: 'ToDo Listeur',
+        description: 'A simple todo list exemple application made with Vue 3 and pinia.',
+        URL: 'https://todo.cmd0app.com',
+    },
+    {
         name: 'neon-nightbeat',
         description: "Hosted for Matis Gaetjens",
         URL: 'https://neon-nightbeat.cmd0app.com',
