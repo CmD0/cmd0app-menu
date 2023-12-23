@@ -25,6 +25,11 @@ const projects = [
         URL: 'https://todo.cmd0app.com',
     },
     {
+        name: 'ProjetA2023',
+        description: "Team development projet for the fall 2023 trimester",
+        URL: 'https://projet2023.cmd0app.com'
+    },
+    {
         name: 'neon-nightbeat',
         description: "Hosted for Matis Gaetjens",
         URL: 'https://neon-nightbeat.cmd0app.com',
